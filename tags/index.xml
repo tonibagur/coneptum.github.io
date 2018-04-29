@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Coneptum S.L.</title>
+    <link>http://www.coneptum.com/tags/</link>
+    <description>Recent content in Tags on Coneptum S.L.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright english</copyright>
+    <lastBuildDate>Mon, 23 Apr 2018 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.coneptum.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ai</title>
+      <link>http://www.coneptum.com/tags/ai/</link>
+      <pubDate>Mon, 23 Apr 2018 13:50:46 +0200</pubDate>
+      
+      <guid>http://www.coneptum.com/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business_strategy</title>
+      <link>http://www.coneptum.com/tags/business_strategy/</link>
+      <pubDate>Mon, 23 Apr 2018 13:50:46 +0200</pubDate>
+      
+      <guid>http://www.coneptum.com/tags/business_strategy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital_transformation</title>
+      <link>http://www.coneptum.com/tags/digital_transformation/</link>
+      <pubDate>Mon, 23 Apr 2018 13:50:46 +0200</pubDate>
+      
+      <guid>http://www.coneptum.com/tags/digital_transformation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

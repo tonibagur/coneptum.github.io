@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>http://www.coneptum.com/en/sitemap.xml</loc>
+		
+	   	<lastmod>2018-04-23T13:50:46+02:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>http://www.coneptum.com/es/sitemap.xml</loc>
+		
+	   	<lastmod>2015-09-17T13:47:08+02:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>http://www.coneptum.com/ca/sitemap.xml</loc>
+		
+	   	<lastmod>2015-09-17T13:47:08+02:00</lastmod>
+		
+	</sitemap>
+	
+</sitemapindex>

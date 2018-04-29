@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coneptum S.L.</title>
+    <link>http://www.coneptum.com/</link>
+    <description>Recent content on Coneptum S.L.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright english</copyright>
+    <lastBuildDate>Mon, 23 Apr 2018 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.coneptum.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3 tips to implement a successful AI strategy in your company</title>
+      <link>http://www.coneptum.com/blog/2018/04/23/successful-ai-strategy/</link>
+      <pubDate>Mon, 23 Apr 2018 13:50:46 +0200</pubDate>
+      
+      <guid>http://www.coneptum.com/blog/2018/04/23/successful-ai-strategy/</guid>
+      <description>In this post I will do a brief overview of the most useful strategic lessons learned from various of the talks given by Andrew Ng. He mentions on various of his talks that he believes that AI is the new electricity and that in the next decade every industry will be transformed by this technology. At Coneptum we believe that in this scenario the first players to adopt AI oriented business strategies will have a significant advantage over the non AI oriented ones so with this post we start a series of articles talking about digital transformation using AI</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.coneptum.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.coneptum.com/contact/</guid>
+      <description>What can AI do for you? We are eager to find new ways to automate your business processes. Leave us a message with your story and we will contact you back as soon as we can</description>
+    </item>
+    
+  </channel>
+</rss>
